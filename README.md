@@ -4,6 +4,10 @@ A complete, playable Pac-Man game for the terminal, written in x86-64 assembly (
 
 Eat all the dots, dodge the two ghosts, and survive as many rounds as you can. Every round the ghosts get faster, and the game only ends when you run out of lives or quit.
 
+## Screenshot
+
+![Pac-Man gameplay](screenshots/pacman-game.png)
+
 ## Features
 
 - Real-time play in the terminal with instant key presses (no Enter needed)
