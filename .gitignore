@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Compiled files
+pacman
+*.o
+
+# Generated game data
+pacman_scores.dat
+
